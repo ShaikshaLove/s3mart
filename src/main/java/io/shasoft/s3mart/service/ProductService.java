@@ -5,5 +5,10 @@ public class ProductService {
     void save() {
         System.out.println("logg");
     }
+  public void createProduct(){
+    }
+    public void deleteProduct(){
+
+    }
 
 }
