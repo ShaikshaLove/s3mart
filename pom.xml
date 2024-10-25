@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>io.shasoft</groupId>
 	<artifactId>s3mart</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0</version>
 	<name>s3mart</name>
 	<description>ecommerce app</description>
 	<url/>
